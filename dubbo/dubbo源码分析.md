@@ -433,6 +433,14 @@ Protocol 没有实现类注释了 Adaptive ，但是接口上有两个方法注�
 
 ![img](https:////p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/778df4f10e0a4a7ba054f621241ae329~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp)
 
+# 2. Dubbo服务暴露过程
+
+[《Dubbo系列》-Dubbo服务暴露过程](https://juejin.cn/post/6874731589243240461?searchId=20231012144134332A8A62AAAF613D1F43)
+
+# 3. Dubbo服务引入过程
+
+[《Dubbo系列》-Dubbo服务引入过程](https://juejin.cn/post/6875109006549975047?searchId=20231012144134332A8A62AAAF613D1F43)
+
 # 参考链接
 
 [《Dubbo系列》-Dubbo SPI机制](https://juejin.cn/post/6872138926216511501?searchId=20231011144201667BEE2D0F345C730D41#heading-12)
